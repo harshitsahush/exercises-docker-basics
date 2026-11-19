@@ -1,0 +1,3 @@
+docker build -t exec_1_12 .
+docker run -p 5001:5001 exec_1_12
+
